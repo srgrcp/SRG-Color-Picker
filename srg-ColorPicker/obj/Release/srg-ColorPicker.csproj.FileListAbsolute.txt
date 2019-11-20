@@ -1,0 +1,14 @@
+D:\Usuario\Documents\Proyectos\C#\srg-ColorPicker\srg-ColorPicker\bin\Release\SRG Color-Picker.exe.config
+D:\Usuario\Documents\Proyectos\C#\srg-ColorPicker\srg-ColorPicker\bin\Release\SRG Color-Picker.exe
+D:\Usuario\Documents\Proyectos\C#\srg-ColorPicker\srg-ColorPicker\bin\Release\SRG Color-Picker.pdb
+D:\Usuario\Documents\Proyectos\C#\srg-ColorPicker\srg-ColorPicker\obj\Release\MainWindow.g.cs
+D:\Usuario\Documents\Proyectos\C#\srg-ColorPicker\srg-ColorPicker\obj\Release\App.g.cs
+D:\Usuario\Documents\Proyectos\C#\srg-ColorPicker\srg-ColorPicker\obj\Release\SRG Color-Picker_MarkupCompile.cache
+D:\Usuario\Documents\Proyectos\C#\srg-ColorPicker\srg-ColorPicker\obj\Release\SRG Color-Picker_MarkupCompile.lref
+D:\Usuario\Documents\Proyectos\C#\srg-ColorPicker\srg-ColorPicker\obj\Release\MainWindow.baml
+D:\Usuario\Documents\Proyectos\C#\srg-ColorPicker\srg-ColorPicker\obj\Release\SRG Color-Picker.g.resources
+D:\Usuario\Documents\Proyectos\C#\srg-ColorPicker\srg-ColorPicker\obj\Release\srg_ColorPicker.Properties.Resources.resources
+D:\Usuario\Documents\Proyectos\C#\srg-ColorPicker\srg-ColorPicker\obj\Release\srg-ColorPicker.csproj.GenerateResource.cache
+D:\Usuario\Documents\Proyectos\C#\srg-ColorPicker\srg-ColorPicker\obj\Release\srg-ColorPicker.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\Proyectos\C#\srg-ColorPicker\srg-ColorPicker\obj\Release\SRG Color-Picker.exe
+D:\Usuario\Documents\Proyectos\C#\srg-ColorPicker\srg-ColorPicker\obj\Release\SRG Color-Picker.pdb
